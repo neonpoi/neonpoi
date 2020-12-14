@@ -1,12 +1,4 @@
 ## 🐈 Hey there! I am using GitHub. ##
-<p align="center">
-	<img width="60" src="https://stylishthemes.github.io/GitHub-Dark/images/octocat-spinner-smil.min.svg">
-	<p align="center">Don't tell me, if this👆 loads for you.</p>
-	<p align="center"><strong>ネオンポイ</strong></p>
-	<p align="center">؜؜؜؜ ؜؜ ؜ ؜؜؜؜ ؜؜ ؜ ؜؜ ؜؜ ؜ ؜؜؜؜ ؜؜ ؜ ؜؜؜؜ ؜؜ ؜ ؜؜؜؜ ؜؜ ؜ ؜؜</p>
-	<p align="center">؜؜ ؜؜ ؜ ؜؜؜؜ ؜؜ ؜ ؜؜؜؜ ؜؜ ؜ ؜؜؜؜ ؜؜ ؜ ؜؜؜؜ ؜؜ ؜ ؜؜؜؜ ؜؜ ؜ ؜؜</p>
-</p>
-
 [![Neonpoi gitstats](https://github-readme-stats.vercel.app/api?username=neonpoi&show_icons=true&include_all_commits=true&theme=tokyonight&layout=default)](https://github.com/neonpoi)
 
 <p><strong>Join us on Telegram 👇 </strong></p>
